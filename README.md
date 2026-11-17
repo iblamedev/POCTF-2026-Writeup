@@ -21,7 +21,7 @@
 | **Global Standing** | **3rd Place Global Podium** | Finished #3 out of 425 teams in the Team Bracket (1,931 teams & 2,582 players overall) |
 | **Total Solves** | **69 / 69** | **100% Full Board Clear** across all 8 released waves |
 | **Speed Sweep** | **15:55:01 UTC** | First team across the global leaderboard to achieve a complete sweep of Wave 8 |
-| **Total Points** | **8,567 pts** | Maximum available points on the challenge board |
+| **Total Points** | **8,648 pts** | Maximum available points on the challenge board |
 | **Target URL** | [pointeroverflowctf.com](https://pointeroverflowctf.com) | Hosted by the University of Wisconsin–Stevens Point |
 
 > [!NOTE]
