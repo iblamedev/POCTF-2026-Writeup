@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Complete technical write-ups, vulnerability analyses, reverse-engineering notes, and exploit scripts for <b>Pointer Overflow CTF 2026 (POCTF 2026)</b>.<br>
+  Technical Write-up for <b>Pointer Overflow CTF 2026 (POCTF 2026)</b>.<br>
   Solved and documented by <b>iblamedev</b> in team <b>Don Quixote</b> (Team ID: <code>491</code>).
 </p>
 
