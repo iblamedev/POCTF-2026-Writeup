@@ -214,6 +214,6 @@ The solutions documented across this repository leverage offensive security fram
 ---
 
 <p align="center">
-  <i>Crafted with precision by <b>iblamedev</b> for Pointer Overflow CTF 2026.</i><br>
+  <i>Crafted by <b>iblamedev</b> for Pointer Overflow CTF 2026.</i><br>
   <i>“Become so untouchable that even the universe regrets teaching you how to suffer.”</i>
 </p>
