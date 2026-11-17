@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Standing" src="https://img.shields.io/badge/Rank-%233%20Global%20Podium-2ea043?style=for-the-badge&logo=target&logoColor=white">
   <img alt="Solves" src="https://img.shields.io/badge/Solves-69%20%2F%2069%20(100%25)-9B59B6?style=for-the-badge&logo=checkmarx&logoColor=white">
-  <img alt="Bracket" src="https://img.shields.io/badge/Bracket-Team%20(Top%203%20of%20425)-1f6feb?style=for-the-badge&logo=shield&logoColor=white">
+  <img alt="Bracket" src="https://img.shields.io/badge/Bracket-Team%20(Top%203%20of%201931)-1f6feb?style=for-the-badge&logo=shield&logoColor=white">
   <img alt="Status" src="https://img.shields.io/badge/Speed%20Sweep-First%20Full%20Clear-f39c12?style=for-the-badge&logo=clockify&logoColor=white">
 </p>
 
